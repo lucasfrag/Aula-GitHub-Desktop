@@ -13,7 +13,7 @@ public class ProdutosDAO {
     ArrayList<ProdutosDTO> listagem = new ArrayList<>();
 
     public void cadastrarProduto(ProdutosDTO produto) {
-
+        // Implementar a parte de cadastro
         //conn = new conectaDAO().connectDB();
     }
 
