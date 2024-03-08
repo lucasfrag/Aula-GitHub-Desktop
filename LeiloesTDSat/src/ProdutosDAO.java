@@ -21,6 +21,10 @@ public class ProdutosDAO {
     PreparedStatement prep;
     ResultSet resultset;
     ArrayList<ProdutosDTO> listagem = new ArrayList<>();
+    
+    public void cadastrar() {
+        // TODO: realizar cadastro no banco de dados
+    }
         
 }
 
